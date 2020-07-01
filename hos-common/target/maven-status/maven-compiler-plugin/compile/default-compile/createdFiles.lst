@@ -1,0 +1,10 @@
+com\imooc\bigdata\hos\common\HosObject.class
+com\imooc\bigdata\hos\common\ListObjectRequest.class
+com\imooc\bigdata\hos\common\ObjectListResult.class
+com\imooc\bigdata\hos\common\HosObjectSummary.class
+com\imooc\bigdata\hos\common\PutRequest.class
+com\imooc\bigdata\hos\common\BucketModel.class
+com\imooc\bigdata\hos\common\util\IdUtil.class
+com\imooc\bigdata\hos\common\HosHeaders.class
+com\imooc\bigdata\hos\common\ObjectMetaData.class
+com\imooc\bigdata\hos\common\util\JsonUtil.class

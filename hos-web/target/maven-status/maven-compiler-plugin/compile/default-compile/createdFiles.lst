@@ -1,0 +1,12 @@
+com\imooc\bigdata\hos\web\HosServerApp.class
+com\imooc\bigdata\hos\web\rest\HosController.class
+com\imooc\bigdata\hos\web\security\ContextUtil.class
+com\imooc\bigdata\hos\web\ApplicationInitialization.class
+com\imooc\bigdata\hos\web\rest\LoginController.class
+com\imooc\bigdata\hos\web\HosServerApp$1.class
+com\imooc\bigdata\hos\web\HosServerBeanConfiguration.class
+com\imooc\bigdata\hos\web\security\IOperationAccessControl.class
+com\imooc\bigdata\hos\web\security\SecurityInterceptor.class
+com\imooc\bigdata\hos\web\rest\BaseController.class
+com\imooc\bigdata\hos\web\security\DefaultOperationAccessControl.class
+com\imooc\bigdata\hos\web\rest\ManageController.class
