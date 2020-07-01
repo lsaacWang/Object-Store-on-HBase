@@ -12,6 +12,3 @@
 ## imooc-hos-sdk            sdk模块
 
 ## script                            数据库mysql脚本
-# Object-Store-on-HBase
-# Object-Store-on-HBase
-# Object-Store-on-HBase
